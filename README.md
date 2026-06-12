@@ -2,244 +2,118 @@
 
 # 🚀 Jerfin
 
-### Electronics & Communication Engineer • Robotics Developer • Embedded Systems Enthusiast
+### Electronics & Communication Engineer | Robotics Developer | Embedded Systems Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Robotics+Engineer+in+Progress;Embedded+Systems+Developer;Drone+%26+Autonomous+Vehicle+Developer;AI+%7C+Computer+Vision+%7C+IoT;Flutter+Application+Developer;Building+Technology+That+Interacts+With+The+Real+World" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Robotics+Developer;Embedded+Systems+Engineer;Drone+%26+Marine+Robotics;AI+%7C+Computer+Vision+%7C+IoT;Flutter+Application+Developer" />
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Jerfynn&style=for-the-badge)
+![GitHub Followers](https://img.shields.io/github/followers/Jerfynn?style=for-the-badge)
+![GitHub Stars](https://img.shields.io/github/stars/Jerfynn?style=for-the-badge)
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-Hello! I'm **Jerfin**, an Electronics and Communication Engineering student passionate about designing intelligent systems that combine **electronics, software, robotics, and artificial intelligence**.
+🎓 Electronics & Communication Engineering Student
 
-My interests span across:
+🤖 Passionate about Robotics & Autonomous Systems
 
-* 🤖 Robotics & Autonomous Systems
-* 🚁 Drone Development & Control Systems
-* 🌊 Autonomous Underwater Vehicles (AUV)
-* 🛥️ Autonomous Surface Vehicles (ASV)
-* 🔌 Embedded Systems & IoT
-* 🧠 Artificial Intelligence & Computer Vision
-* 📱 Mobile Application Development
-* ☁️ Real-Time Data Communication Systems
+🚁 Developing Drone Navigation & Control Systems
 
-I enjoy transforming ideas into working prototypes and real-world engineering solutions. Most of my projects involve integrating sensors, controllers, communication systems, and software to create autonomous and intelligent machines.
+🌊 Building Autonomous Underwater & Surface Vehicles
 
----
+🧠 Exploring AI, Computer Vision & Embedded Intelligence
 
-# 🎯 Engineering Interests
+📱 Creating Mobile Applications using Flutter
 
-## Robotics
-
-I am actively exploring robotic systems including:
-
-* Autonomous navigation
-* Sensor fusion
-* Path planning
-* Control systems
-* Computer vision integration
-* ROS-based robotics
+🎵 Music Composer, Keyboard Player & Content Creator
 
 ---
 
-## Embedded Systems
+## ⚡ Technical Stack
 
-I enjoy working close to hardware and developing firmware for:
+### Programming
 
-* ESP32
-* STM32
-* Arduino
-* Raspberry Pi
-* Jetson Platforms
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
 
-Areas of interest:
+### Embedded & Hardware
 
-* UART Communication
-* SPI Protocol
-* I2C Communication
-* CAN Bus
-* RS485 Networks
-* Sensor Integration
-* Motor Control Systems
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
+![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-A22846?style=for-the-badge&logo=raspberrypi)
+![Jetson](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia)
 
----
+### Robotics & AI
 
-## Artificial Intelligence
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros)
+![Gazebo](https://img.shields.io/badge/Gazebo-2F3A4A?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF6F00?style=for-the-badge)
 
-I use AI to solve practical engineering problems such as:
+### Software Tools
 
-* Face Recognition
-* Object Detection
-* Human Tracking
-* Vehicle Detection
-* Autonomous Decision Systems
-* Intelligent Monitoring Applications
-
----
-
-# 🚀 Major Projects
-
-## 🌊 Autonomous Underwater Vehicle (AUV)
-
-Developing a complete underwater robotic system integrating:
-
-* AHRS Sensors
-* GPS Communication
-* Magnetometer Integration
-* Thruster Control
-* Mission Planning
-* Real-Time Telemetry
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
-## 🛥️ Autonomous Surface Vehicle (ASV)
+## 🚀 Featured Projects
 
-A marine robotics platform designed for:
-
-* Autonomous Navigation
-* Sensor Monitoring
-* Data Acquisition
-* Remote Control Operations
-* Environmental Monitoring
-
----
-
-## 🚁 Drone Control System
-
-Designed and tested:
-
-* PID Controllers
-* Position Control
-* Trajectory Following
-* ROS/Gazebo Simulations
-* Sensor-Based Stabilization
+| Project | Description |
+|----------|------------|
+| 🌊 Autonomous Underwater Vehicle | AHRS, GPS, Telemetry, Thruster Control |
+| 🛥️ Autonomous Surface Vehicle | Navigation, Monitoring, Data Acquisition |
+| 🚁 Drone Control System | PID Control, ROS, Gazebo Simulation |
+| 🧠 AI Face Recognition | Real-Time Recognition & Automation |
+| 📱 Flutter Applications | Bluetooth, IoT & Robotics Interfaces |
 
 ---
 
-## 🧠 AI Face Recognition System
+## 📊 GitHub Statistics
 
-Built a real-time recognition system featuring:
+<div align="center">
 
-* Face Detection
-* User Identification
-* Voice Feedback
-* Arduino Integration
-* Automated Actuator Control
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jerfynn&show_icons=true&theme=tokyonight" />
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jerfynn&layout=compact&theme=tokyonight" />
 
-## 📱 Flutter Applications
-
-Developing mobile applications for:
-
-* Bluetooth Communication
-* IoT Monitoring
-* Device Control
-* Robotics Interfaces
-* Real-Time Sensor Visualization
+</div>
 
 ---
 
-# 🛠️ Technical Skills
+## 🌱 Currently Learning
 
-## Programming Languages
+🚀 Advanced ROS Development
 
-```text
-C
-C++
-Java
-Python
-Dart
-```
+🛰️ Autonomous Navigation Algorithms
 
-## Embedded Platforms
+🤖 Embedded AI Systems
 
-```text
-ESP32
-STM32
-Arduino
-Raspberry Pi
-Jetson Orin
-```
+👁️ Computer Vision for Robotics
 
-## Robotics & Simulation
+🔒 Embedded Systems Cybersecurity
 
-```text
-ROS
-Gazebo
-PID Control
-Robot Navigation
-Computer Vision
-```
-
-## Software & Tools
-
-```text
-Flutter
-Git
-GitHub
-VS Code
-Blender
-Premiere Pro
-CapCut
-FL Studio
-```
+☁️ Cloud Connected IoT Architectures
 
 ---
 
-# 📊 GitHub Statistics
+## 🎯 Engineering Vision
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Jerfynn&show_icons=true&theme=tokyonight" />
-</p>
+> Building intelligent autonomous systems that operate across air, land, and marine environments by combining:
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jerfynn&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-# 🌱 Currently Learning
-
-* Advanced ROS Development
-* Autonomous Navigation Algorithms
-* Embedded AI Systems
-* Computer Vision for Robotics
-* Autonomous Marine Robotics
-* Cybersecurity for Embedded Systems
-* Cloud Connected IoT Architectures
-
----
-
-# 🎵 Beyond Engineering
-
-Apart from engineering, I enjoy:
-
-🎹 Playing Keyboard
-
-🎼 Music Composition
-
-🎚️ Mixing & Mastering using FL Studio
-
-🎨 3D Design with Blender
-
-🎬 Video Editing & Content Creation
-
-🎮 Gaming & Interactive Technologies
-
----
-
-# 🔭 Vision
-
-My goal is to build intelligent autonomous systems that can operate in air, land, and marine environments while integrating modern AI and embedded technologies.
-
-I believe the future belongs to engineers who can seamlessly combine:
-
-**Electronics + Software + Robotics + Artificial Intelligence**
-
-to create innovative solutions for real-world challenges.
+### Electronics + Software + Robotics + Artificial Intelligence
 
 ---
 
@@ -247,6 +121,8 @@ to create innovative solutions for real-world challenges.
 
 ### 🚀 Always Learning • Always Building • Always Improving
 
-⭐ Thanks for visiting my profile! ⭐
+<a href="https://github.com/Jerfynn">
+<img src="https://img.shields.io/badge/GitHub-Jerfynn-181717?style=for-the-badge&logo=github">
+</a>
 
 </div>
