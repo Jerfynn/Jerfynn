@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Jerfin
+#  Jerfin
 
 ### Electronics & Communication Engineer | Robotics Developer | Embedded Systems Enthusiast
 
@@ -16,25 +16,25 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-🎓 Electronics & Communication Engineering Student
+ Electronics & Communication Engineering Student
 
-🤖 Passionate about Robotics & Autonomous Systems
+ Passionate about Robotics & Autonomous Systems
 
-🚁 Developing Drone Navigation & Control Systems
+ Developing Drone Navigation & Control Systems
 
-🌊 Building Autonomous Underwater & Surface Vehicles
+ Building Autonomous Underwater & Surface Vehicles
 
-🧠 Exploring AI, Computer Vision & Embedded Intelligence
+ Exploring AI, Computer Vision & Embedded Intelligence
 
-📱 Creating Mobile Applications using Flutter
+ Creating Mobile Applications using Flutter
 
-🎵 Music Composer, Keyboard Player & Content Creator
+ Music Composer, Keyboard Player & Content Creator
 
 ---
 
-## ⚡ Technical Stack
+##  Technical Stack
 
 ### Programming
 
@@ -69,19 +69,19 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | Description |
 |----------|------------|
-| 🌊 Autonomous Underwater Vehicle | AHRS, GPS, Telemetry, Thruster Control |
-| 🛥️ Autonomous Surface Vehicle | Navigation, Monitoring, Data Acquisition |
-| 🚁 Drone Control System | PID Control, ROS, Gazebo Simulation |
-| 🧠 AI Face Recognition | Real-Time Recognition & Automation |
-| 📱 Flutter Applications | Bluetooth, IoT & Robotics Interfaces |
+|  Autonomous Underwater Vehicle | AHRS, GPS, Telemetry, Thruster Control |
+|  Autonomous Surface Vehicle | Navigation, Monitoring, Data Acquisition |
+|  Drone Control System | PID Control, ROS, Gazebo Simulation |
+|  AI Face Recognition | Real-Time Recognition & Automation |
+|  Flutter Applications | Bluetooth, IoT & Robotics Interfaces |
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
 
@@ -93,23 +93,23 @@
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
-🚀 Advanced ROS Development
+ Advanced ROS Development
 
-🛰️ Autonomous Navigation Algorithms
+ Autonomous Navigation Algorithms
 
-🤖 Embedded AI Systems
+ Embedded AI Systems
 
-👁️ Computer Vision for Robotics
+ Computer Vision for Robotics
 
-🔒 Embedded Systems Cybersecurity
+ Embedded Systems Cybersecurity
 
-☁️ Cloud Connected IoT Architectures
+ Cloud Connected IoT Architectures
 
 ---
 
-## 🎯 Engineering Vision
+##  Engineering Vision
 
 > Building intelligent autonomous systems that operate across air, land, and marine environments by combining:
 
@@ -119,7 +119,7 @@
 
 <div align="center">
 
-### 🚀 Always Learning • Always Building • Always Improving
+###  Always Learning • Always Building • Always Improving
 
 <a href="https://github.com/Jerfynn">
 <img src="https://img.shields.io/badge/GitHub-Jerfynn-181717?style=for-the-badge&logo=github">
