@@ -16,6 +16,19 @@
 
 ---
 
+## 🌐 Live Projects
+
+### SonarViewer
+
+**Live Demo:**  
+https://sonar-viewer.nfyniq-softech.workers.dev/
+
+A modern desktop sonar visualization platform built using **PySide6**, featuring real-time Ping360 sonar rendering, telemetry visualization, and mission monitoring.
+
+---
+
+---
+
 ##  About Me
 
  Electronics & Communication Engineering Student
