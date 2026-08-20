@@ -16,14 +16,13 @@
 
 ---
 
-## 🌐 Live Projects
+## 🌐 Website
 
-### SonarViewer
+### NfyniQ
 
-**Live Demo:**  
-https://sonar-viewer.nfyniq-softech.workers.dev/
+**Under Deveopment:**  
+https://nfyniq.nfyniq-softech.workers.dev/
 
-A modern desktop sonar visualization platform built using **PySide6**, featuring real-time Ping360 sonar rendering, telemetry visualization, and mission monitoring.
 
 ---
 
