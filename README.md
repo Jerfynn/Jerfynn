@@ -21,8 +21,8 @@
 ### NfyniQ
 
 **Under Deveopment:**  
-https://nfyniq.nfyniq-softech.workers.dev/
 
+https://nfyniq.nfyniq-softech.workers.dev/
 https://jerfynn.github.io/NfyniQ/
 ---
 
