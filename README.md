@@ -23,6 +23,7 @@
 **Under Deveopment:**  
 
 https://nfyniq.nfyniq-softech.workers.dev/
+
 https://jerfynn.github.io/NfyniQ/
 ---
 
